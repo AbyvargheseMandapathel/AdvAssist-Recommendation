@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lawyer Recommendation Result</title>
+</head>
+<body>
+    <h1>Result</h1>
+    <p>{{ result_message }}</p>
+    <p>{{ accuracy_message }}</p>
+    <a href="{% url 'predict_best_lawyer' %}">Back to Input</a>
+</body>
+</html>
