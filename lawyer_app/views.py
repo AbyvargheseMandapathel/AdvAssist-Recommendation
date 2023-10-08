@@ -82,6 +82,8 @@ def predict_best_lawyer(request):
         return render(request, 'result.html', {
             'result_message': best_lawyer_message,
             'image_url': best_lawyer_image_url,  # Pass the image URL to the template
+            'lawyer_name':best_lawyer_info['Lawyer Name'],
+            'lawyer_specialization':best_lawyer_info['Specialization'],
         })
 
     return render(request, 'input.html')  # Adjust the template path as needed

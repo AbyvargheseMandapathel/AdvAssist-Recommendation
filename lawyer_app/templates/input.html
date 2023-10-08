@@ -1,22 +1,96 @@
-{% load static %}
+<!-- {% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Lawyer Recommendation</title>
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    
 </head>
 <body>
-    <h1 class="my-text">Hello, World!</h1>
     <form method="post">
         {% csrf_token %}
         <label for="case_type">Case Type:</label>
         <select id="case_type" name="case_type" required>
             <option value="Murder">Murder</option>
             <option value="Adoption">Adoption</option>
-            <!-- Add more options as needed -->
+           Add more options as needed
         </select>
         <input type="submit" value="Submit">
     </form>
 </body>
+</html> -->
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,500;0,600;0,800;1,300&family=Roboto:wght@300;400;500;700&display=swap');
+        
+        *{
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <nav style="min-height: 5em;" class="navbar px-3 navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Features</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+    <div class="container py-5">
+        <div class="row">
+            <div style="min-height: 75vh;" class="col-12 d-flex justify-content-center align-items-center">
+                <form method="post">
+                    {% csrf_token %}
+                    <h1 class="text-center my-4">Heading</h1>
+                    <div class="input-group d-flex" style="flex-direction: column;">
+                        <label for="case_type" class="my-2">Case Type</label>
+                        <select style="min-width: 20em;" class="form-select" id="case_type" name="case_type"
+                            aria-label="Example select with button addon" required>
+                            <option value="" selected disabled>Choose...</option>
+                            <option value="Murder">Murder</option>
+                            <option value="Adoption">Adoption</option>
+                        </select>
+                    </div>
+                    
+                    <button style="min-width: 7em;" class="btn btn-primary mt-4" type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+</body>
+
 </html>
