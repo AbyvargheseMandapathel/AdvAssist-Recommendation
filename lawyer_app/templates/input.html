@@ -8,7 +8,11 @@
     <form method="post">
         {% csrf_token %}
         <label for="case_type">Case Type:</label>
-        <input type="text" id="case_type" name="case_type" required>
+        <select id="case_type" name="case_type" required>
+            <option value="Murder">Murder</option>
+            <option value="Adoption">Adoption</option>
+            <!-- Add more options as needed -->
+        </select>
         <input type="submit" value="Submit">
     </form>
 </body>
