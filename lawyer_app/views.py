@@ -18,6 +18,13 @@ def load_feature_names():
     
     return feature_names
 
+# Define a function to load lawyer names
+def load_lawyer_names():
+    # Load your data file that contains Lawyer ID and Lawyer Name mapping
+    lawyer_name_df = pd.read_csv('lawyer_app\shuffled_csv_file_name.csv')
+    lawyer_name_mapping = dict(zip(lawyer_name_df['Lawyer ID'], lawyer_name_df['Lawyer Name']))
+    return lawyer_name_mapping
+
 def predict_best_lawyer(request):
     if request.method == 'POST':
         case_type = request.POST.get('case_type')
@@ -58,9 +65,15 @@ def predict_best_lawyer(request):
                 best_score = score
                 best_lawyer_id = lawyer_id
 
+        # Load lawyer names
+        lawyer_name_mapping = load_lawyer_names()
+
+        # Get the lawyer's name based on their ID
+        best_lawyer_name = lawyer_name_mapping.get(best_lawyer_id, "Unknown Lawyer")
+
         # Prepare the result message
         if best_lawyer_id is not None:
-            best_lawyer_message = f"The best lawyer for the '{case_type}' case is Lawyer {best_lawyer_id}"
+            best_lawyer_message = f"The best lawyer for the '{case_type}' case is {best_lawyer_name}"
         else:
             best_lawyer_message = f"No lawyer found for the '{case_type}' case."
 
