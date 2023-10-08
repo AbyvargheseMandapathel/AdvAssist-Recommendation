@@ -7,7 +7,10 @@
 <body>
     <h1>Result</h1>
     <p>{{ result_message }}</p>
-    <p>{{ accuracy_message }}</p>
+    {% if image_url %}
+        <img src="{{ image_url }}" alt="Lawyer Image">
+    {% endif %}
+    
     <a href="{% url 'predict_best_lawyer' %}">Back to Input</a>
 </body>
 </html>

@@ -18,12 +18,11 @@ def load_feature_names():
     
     return feature_names
 
-# Define a function to load lawyer names
-def load_lawyer_names():
-    # Load your data file that contains Lawyer ID and Lawyer Name mapping
-    lawyer_name_df = pd.read_csv('lawyer_app\shuffled_csv_file_name.csv')
-    lawyer_name_mapping = dict(zip(lawyer_name_df['Lawyer ID'], lawyer_name_df['Lawyer Name']))
-    return lawyer_name_mapping
+# Define a function to load lawyer data including name, specialization, and image URL
+def load_lawyer_data():
+    # Load your data file that contains Lawyer ID, Lawyer Name, Specialization, and Image URL
+    lawyer_data_df = pd.read_csv('lawyer_app\shuffled_csv_file_name.csv')
+    return lawyer_data_df
 
 def predict_best_lawyer(request):
     if request.method == 'POST':
@@ -65,21 +64,24 @@ def predict_best_lawyer(request):
                 best_score = score
                 best_lawyer_id = lawyer_id
 
-        # Load lawyer names
-        lawyer_name_mapping = load_lawyer_names()
+        # Load lawyer data (including name, specialization, and image URL)
+        lawyer_data_df = load_lawyer_data()
 
-        # Get the lawyer's name based on their ID
-        best_lawyer_name = lawyer_name_mapping.get(best_lawyer_id, "Unknown Lawyer")
+        # Get the lawyer's information based on their ID
+        best_lawyer_info = lawyer_data_df[lawyer_data_df['Lawyer ID'] == best_lawyer_id].iloc[0]
 
-        # Prepare the result message
+        # Prepare the result message with name, specialization, and image URL
         if best_lawyer_id is not None:
-            best_lawyer_message = f"The best lawyer for the '{case_type}' case is {best_lawyer_name}"
+            best_lawyer_message = f"The best lawyer for the '{case_type}' case is {best_lawyer_info['Lawyer Name']} specializing in {best_lawyer_info['Specialization']}."
+            best_lawyer_image_url = best_lawyer_info['Image Url']
         else:
             best_lawyer_message = f"No lawyer found for the '{case_type}' case."
+            best_lawyer_image_url = ''
 
         # Render the result.html template with the result data
         return render(request, 'result.html', {
             'result_message': best_lawyer_message,
+            'image_url': best_lawyer_image_url,  # Pass the image URL to the template
         })
 
     return render(request, 'input.html')  # Adjust the template path as needed
