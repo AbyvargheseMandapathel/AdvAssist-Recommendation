@@ -1,0 +1,2597 @@
+Specialization,Case Type,Win/Lose,Lawyer ID,Name,Image,
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin,
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Burglary,1,1000,John Smith
+Criminal Lawyer,Robbery,1,1000,John Smith
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Family Lawyer,Adoption,1,1006,Martin James
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Assault,1,1000,John Smith
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Criminal Lawyer,Robbery,0,1000,John Smith
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Family Lawyer,ChildCustody,0,1006,Martin James
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Criminal Lawyer,Assault,1,1000,John Smith
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Criminal Lawyer,Murder,0,1000,John Smith
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Family Lawyer,Adoption,1,1006,Martin James
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Criminal Lawyer,Burglary,0,1000,John Smith
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,Divorce,1,1006,Martin James
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Robbery,1,1000,John Smith
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Criminal Lawyer,Drug,0,1000,John Smith
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Criminal Lawyer,Drug,1,1001,Jerrin Jo
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Tax Lawyer,TaxEvasion,1,1018,Robin Roy
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Family Lawyer,ChildCustody,0,1006,Martin James
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Criminal Lawyer,Drug,1,1001,Jerrin Jo
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Family Lawyer,ChildCustody,0,1006,Martin James
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1017,Rony Shaji
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Family Lawyer,Divorce,1,1006,Martin James
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Criminal Lawyer,Drug,1,1000,John Smith
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Criminal Lawyer,Burglary,0,1000,John Smith
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Assault,1,1000,John Smith
+Criminal Lawyer,Murder,1,1000,John Smith
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,ContractDispute,1,1012,Aby George
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Family Lawyer,Adoption,1,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Drug,1,1001,Jerrin Jo
+Criminal Lawyer,Drug,1,1000,John Smith
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Criminal Lawyer,Murder,0,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Criminal Lawyer,Drug,1,1001,Jerrin Jo
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,Adoption,1,1006,Martin James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Criminal Lawyer,Murder,0,1000,John Smith
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Criminal Lawyer,Drug,0,1000,John Smith
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Family Lawyer,ChildCustody,0,1006,Martin James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Criminal Lawyer,Assault,1,1000,John Smith
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Family Lawyer,ChildCustody,1,1006,Martin James
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Criminal Lawyer,Robbery,1,1000,John Smith
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Family Lawyer,Divorce,1,1006,Martin James
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Criminal Lawyer,Burglary,1,1000,John Smith
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Criminal Lawyer,Robbery,1,1000,John Smith
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Criminal Lawyer,Assault,1,1001,Jerrin Jo
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Tax Lawyer,TaxEvasion,1,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Criminal Lawyer,Robbery,1,1000,John Smith
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Criminal Lawyer,Assault,1,1000,John Smith
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Criminal Lawyer,Drug,0,1000,John Smith
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Criminal Lawyer,Drug,1,1000,John Smith
+Family Lawyer,Divorce,1,1006,Martin James
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Criminal Lawyer,Murder,0,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Drug,1,1000,John Smith
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,ContractDispute,1,1012,Aby George
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Criminal Lawyer,Assault,1,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Family Lawyer,Adoption,0,1006,Martin James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Criminal Lawyer,Robbery,0,1000,John Smith
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Criminal Lawyer,Murder,0,1002,Jo Jacob
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Criminal Lawyer,Burglary,1,1000,John Smith
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Criminal Lawyer,Assault,1,1000,John Smith
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Tax Lawyer,TaxEvasion,1,1017,Rony Shaji
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Criminal Lawyer,Burglary,0,1000,John Smith
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Criminal Lawyer,Murder,0,1000,John Smith
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Family Lawyer,Divorce,0,1006,Martin James
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Criminal Lawyer,Assault,1,1000,John Smith
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Family Lawyer,ChildCustody,0,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Criminal Lawyer,Drug,0,1000,John Smith
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Criminal Lawyer,Drug,0,1000,John Smith
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Criminal Lawyer,Burglary,0,1000,John Smith
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,Adoption,0,1006,Martin James
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Criminal Lawyer,Murder,0,1001,Jerrin Jo
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Criminal Lawyer,Burglary,0,1000,John Smith
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Criminal Lawyer,Assault,1,1000,John Smith
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Assault,1,1000,John Smith
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,0,1006,Martin James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Criminal Lawyer,Assault,1,1000,John Smith
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Criminal Lawyer,Drug,1,1001,Jerrin Jo
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Family Lawyer,Adoption,1,1006,Martin James
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Burglary,0,1000,John Smith
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Criminal Lawyer,Robbery,0,1000,John Smith
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,ChildCustody,1,1006,Martin James
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,ChildCustody,0,1006,Martin James
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Family Lawyer,ChildCustody,0,1006,Martin James
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Tax Lawyer,TaxEvasion,1,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Criminal Lawyer,Robbery,1,1000,John Smith
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Tax Lawyer,TaxEvasion,1,1018,Robin Roy
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Family Lawyer,ChildCustody,0,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Criminal Lawyer,Robbery,0,1000,John Smith
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Family Lawyer,ChildCustody,1,1006,Martin James
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,ChildCustody,1,1006,Martin James
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,ChildCustody,1,1006,Martin James
+Criminal Lawyer,Murder,0,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Criminal Lawyer,Robbery,1,1000,John Smith
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Criminal Lawyer,Drug,1,1000,John Smith
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Family Lawyer,Divorce,1,1006,Martin James
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Criminal Lawyer,Murder,0,1000,John Smith
+Criminal Lawyer,Burglary,1,1000,John Smith
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Criminal Lawyer,Drug,1,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Criminal Lawyer,Assault,1,1001,Jerrin Jo
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Family Lawyer,Adoption,0,1006,Martin James
+Criminal Lawyer,Murder,0,1002,Jo Jacob
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Family Lawyer,ChildCustody,0,1006,Martin James
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Family Lawyer,Divorce,1,1006,Martin James
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Criminal Lawyer,Robbery,1,1000,John Smith
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Criminal Lawyer,Drug,1,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Family Lawyer,ChildCustody,0,1006,Martin James
+Criminal Lawyer,Murder,0,1001,Jerrin Jo
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Criminal Lawyer,Drug,0,1000,John Smith
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Family Lawyer,Divorce,1,1006,Martin James
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Criminal Lawyer,Robbery,0,1000,John Smith
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Criminal Lawyer,Robbery,1,1000,John Smith
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Family Lawyer,Divorce,0,1006,Martin James
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Criminal Lawyer,Murder,0,1000,John Smith
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Criminal Lawyer,Drug,1,1002,Jo Jacob
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Criminal Lawyer,Murder,1,1000,John Smith
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Family Lawyer,ChildCustody,1,1006,Martin James
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Family Lawyer,Divorce,1,1006,Martin James
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Criminal Lawyer,Murder,0,1001,Jerrin Jo
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Criminal Lawyer,Burglary,0,1000,John Smith
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Family Lawyer,Adoption,1,1006,Martin James
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,Adoption,0,1006,Martin James
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Criminal Lawyer,Assault,0,1000,John Smith
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Assault,1,1000,John Smith
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Family Lawyer,ChildCustody,0,1006,Martin James
+Criminal Lawyer,Drug,0,1000,John Smith
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Assault,1,1000,John Smith
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Family Lawyer,Divorce,0,1006,Martin James
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Criminal Lawyer,Burglary,1,1000,John Smith
+Family Lawyer,ChildCustody,1,1006,Martin James
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Criminal Lawyer,Robbery,0,1000,John Smith
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Criminal Lawyer,Robbery,1,1000,John Smith
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Criminal Lawyer,Assault,0,1000,John Smith
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Drug,0,1000,John Smith
+Family Lawyer,Adoption,0,1006,Martin James
+Family Lawyer,ChildCustody,0,1006,Martin James
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Family Lawyer,Adoption,1,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Criminal Lawyer,Drug,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Criminal Lawyer,Robbery,1,1000,John Smith
+Criminal Lawyer,Robbery,1,1001,Jerrin Jo
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Criminal Lawyer,Burglary,0,1000,John Smith
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Family Lawyer,ChildCustody,1,1006,Martin James
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,ChildCustody,0,1006,Martin James
+Family Lawyer,ChildCustody,1,1006,Martin James
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Family Lawyer,ChildCustody,1,1006,Martin James
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Criminal Lawyer,Drug,0,1000,John Smith
+Criminal Lawyer,Burglary,0,1000,John Smith
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Family Lawyer,Divorce,1,1006,Martin James
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Criminal Lawyer,Murder,0,1000,John Smith
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Criminal Lawyer,Robbery,0,1000,John Smith
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Criminal Lawyer,Murder,0,1002,Jo Jacob
+Family Lawyer,Adoption,0,1006,Martin James
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Criminal Lawyer,Drug,1,1000,John Smith
+Criminal Lawyer,Drug,0,1000,John Smith
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Criminal Lawyer,Murder,0,1000,John Smith
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Criminal Lawyer,Murder,0,1000,John Smith
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Criminal Lawyer,Murder,0,1002,Jo Jacob
+Criminal Lawyer,Drug,0,1000,John Smith
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Family Lawyer,ChildCustody,1,1006,Martin James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Robbery,1,1000,John Smith
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Criminal Lawyer,Assault,1,1000,John Smith
+Family Lawyer,Adoption,1,1006,Martin James
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Family Lawyer,ChildCustody,1,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Criminal Lawyer,Drug,1,1002,Jo Jacob
+Family Lawyer,Divorce,1,1006,Martin James
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Family Lawyer,Divorce,1,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Criminal Lawyer,Murder,0,1000,John Smith
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Criminal Lawyer,Burglary,0,1000,John Smith
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Family Lawyer,Adoption,0,1006,Martin James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Family Lawyer,ChildCustody,0,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Criminal Lawyer,Burglary,1,1000,John Smith
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Criminal Lawyer,Drug,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Criminal Lawyer,Robbery,0,1000,John Smith
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Criminal Lawyer,Assault,1,1001,Jerrin Jo
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Criminal Lawyer,Assault,1,1000,John Smith
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,TaxEvasion,1,1018,Robin Roy
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Family Lawyer,Adoption,1,1006,Martin James
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Criminal Lawyer,Assault,1,1000,John Smith
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Family Lawyer,Divorce,0,1006,Martin James
+Criminal Lawyer,Drug,1,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Criminal Lawyer,Robbery,1,1000,John Smith
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Criminal Lawyer,Robbery,1,1000,John Smith
+Criminal Lawyer,Assault,1,1000,John Smith
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Family Lawyer,Adoption,1,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,1,1006,Martin James
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Criminal Lawyer,Robbery,1,1000,John Smith
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Family Lawyer,Divorce,0,1006,Martin James
+Criminal Lawyer,Drug,0,1000,John Smith
+Business Lawyer,ContractDispute,1,1012,Aby George
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,1,1012,Aby George
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Criminal Lawyer,Burglary,0,1000,John Smith
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Criminal Lawyer,Robbery,1,1001,Jerrin Jo
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Criminal Lawyer,Drug,1,1000,John Smith
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Criminal Lawyer,Assault,0,1000,John Smith
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxEvasion,1,1018,Robin Roy
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Family Lawyer,Adoption,0,1006,Martin James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Tax Lawyer,TaxEvasion,1,1017,Rony Shaji
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Tax Lawyer,TaxEvasion,1,1018,Robin Roy
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Criminal Lawyer,Burglary,0,1000,John Smith
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Drug,1,1000,John Smith
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Criminal Lawyer,Murder,0,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Criminal Lawyer,Murder,0,1001,Jerrin Jo
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Family Lawyer,Adoption,1,1006,Martin James
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Criminal Lawyer,Burglary,0,1000,John Smith
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Criminal Lawyer,Assault,0,1000,John Smith
+Criminal Lawyer,Murder,0,1000,John Smith
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Murder,0,1000,John Smith
+Criminal Lawyer,Robbery,1,1000,John Smith
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Criminal Lawyer,Robbery,1,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Family Lawyer,Divorce,0,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Criminal Lawyer,Burglary,1,1000,John Smith
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Criminal Lawyer,Murder,0,1002,Jo Jacob
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Family Lawyer,ChildCustody,0,1006,Martin James
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Family Lawyer,ChildCustody,0,1005,Tony M Thomas
+Criminal Lawyer,Assault,1,1000,John Smith
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Family Lawyer,ChildCustody,0,1006,Martin James
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Family Lawyer,Divorce,0,1006,Martin James
+Criminal Lawyer,Drug,1,1001,Jerrin Jo
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Criminal Lawyer,Assault,0,1000,John Smith
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Criminal Lawyer,Assault,1,1000,John Smith
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Criminal Lawyer,Murder,0,1000,John Smith
+Tax Lawyer,TaxEvasion,1,1018,Robin Roy
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,TaxEvasion,1,1017,Rony Shaji
+Criminal Lawyer,Murder,0,1000,John Smith
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Criminal Lawyer,Drug,0,1000,John Smith
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Criminal Lawyer,Drug,0,1000,John Smith
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Criminal Lawyer,Assault,0,1000,John Smith
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Criminal Lawyer,Assault,0,1000,John Smith
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Family Lawyer,Adoption,0,1006,Martin James
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Criminal Lawyer,Burglary,1,1000,John Smith
+Criminal Lawyer,Assault,0,1000,John Smith
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Family Lawyer,Divorce,1,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Murder,1,1000,John Smith
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Criminal Lawyer,Murder,1,1000,John Smith
+Family Lawyer,Adoption,0,1006,Martin James
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,ContractDispute,1,1012,Aby George
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Criminal Lawyer,Burglary,0,1000,John Smith
+Business Lawyer,ContractDispute,1,1012,Aby George
+Criminal Lawyer,Murder,0,1000,John Smith
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Criminal Lawyer,Robbery,0,1000,John Smith
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Robbery,1,1000,John Smith
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Criminal Lawyer,Drug,0,1000,John Smith
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Criminal Lawyer,Robbery,1,1000,John Smith
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Criminal Lawyer,Burglary,0,1000,John Smith
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,ChildCustody,0,1006,Martin James
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Business Lawyer,ContractDispute,1,1012,Aby George
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Criminal Lawyer,Burglary,0,1000,John Smith
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Criminal Lawyer,Drug,1,1000,John Smith
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Criminal Lawyer,Murder,1,1000,John Smith
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Criminal Lawyer,Drug,0,1000,John Smith
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Criminal Lawyer,Robbery,1,1000,John Smith
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Criminal Lawyer,Assault,0,1001,Jerrin Jo
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Criminal Lawyer,Drug,1,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Family Lawyer,ChildCustody,0,1006,Martin James
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,1,1017,Rony Shaji
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,ChildCustody,1,1006,Martin James
+Family Lawyer,Divorce,1,1006,Martin James
+Criminal Lawyer,Robbery,1,1002,Jo Jacob
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Family Lawyer,ChildCustody,0,1006,Martin James
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Criminal Lawyer,Drug,0,1000,John Smith
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Criminal Lawyer,Murder,1,1000,John Smith
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Family Lawyer,ChildCustody,0,1006,Martin James
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Family Lawyer,ChildCustody,0,1005,Tony M Thomas
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Criminal Lawyer,Assault,0,1000,John Smith
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Criminal Lawyer,Murder,0,1001,Jerrin Jo
+Family Lawyer,Divorce,1,1006,Martin James
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Criminal Lawyer,Murder,1,1000,John Smith
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Criminal Lawyer,Assault,1,1000,John Smith
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Criminal Lawyer,Drug,1,1002,Jo Jacob
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Family Lawyer,ChildCustody,1,1006,Martin James
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Criminal Lawyer,Burglary,1,1000,John Smith
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Family Lawyer,Adoption,1,1006,Martin James
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Criminal Lawyer,Drug,1,1000,John Smith
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Criminal Lawyer,Drug,1,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Criminal Lawyer,Robbery,1,1000,John Smith
+Family Lawyer,Divorce,1,1006,Martin James
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Criminal Lawyer,Murder,0,1000,John Smith
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Family Lawyer,ChildCustody,0,1006,Martin James
+Family Lawyer,ChildCustody,0,1006,Martin James
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Criminal Lawyer,Assault,1,1000,John Smith
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Tax Lawyer,TaxFraud,1,1018,Robin Roy
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Criminal Lawyer,Drug,1,1000,John Smith
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Criminal Lawyer,Murder,0,1002,Jo Jacob
+Business Lawyer,ContractDispute,1,1012,Aby George
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Tax Lawyer,TaxEvasion,1,1018,Robin Roy
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Tax Lawyer,TaxEvasion,1,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Business Lawyer,ContractDispute,1,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Criminal Lawyer,Robbery,1,1000,John Smith
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Family Lawyer,ChildCustody,0,1006,Martin James
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Criminal Lawyer,Robbery,0,1000,John Smith
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1019,Roy Jacob
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Criminal Lawyer,Assault,0,1000,John Smith
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Immigration Lawyer,Deportation,0,1008,Justin Jose
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Family Lawyer,Divorce,1,1006,Martin James
+Criminal Lawyer,Murder,1,1000,John Smith
+Criminal Lawyer,Assault,1,1000,John Smith
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Criminal Lawyer,Burglary,1,1000,John Smith
+Family Lawyer,Divorce,1,1006,Martin James
+Family Lawyer,Divorce,1,1006,Martin James
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Criminal Lawyer,Robbery,0,1000,John Smith
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Family Lawyer,Divorce,1,1006,Martin James
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Criminal Lawyer,Burglary,0,1000,John Smith
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,Adoption,0,1006,Martin James
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Family Lawyer,Adoption,1,1006,Martin James
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,TaxEvasion,1,1019,Roy Jacob
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1012,Aby George
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Family Lawyer,Adoption,0,1006,Martin James
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Criminal Lawyer,Murder,0,1000,John Smith
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Family Lawyer,Adoption,0,1006,Martin James
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Family Lawyer,ChildCustody,0,1006,Martin James
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Family Lawyer,Divorce,0,1006,Martin James
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Family Lawyer,ChildCustody,0,1006,Martin James
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Immigration Lawyer,Deportation,1,1008,Justin Jose
+Family Lawyer,Adoption,0,1006,Martin James
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Business Lawyer,ContractDispute,1,1013,Don Benny
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Burglary,1,1001,Jerrin Jo
+Tax Lawyer,TaxFraud,0,1019,Roy Jacob
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Criminal Lawyer,Murder,0,1000,John Smith
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Family Lawyer,ChildCustody,0,1006,Martin James
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Criminal Lawyer,Burglary,0,1000,John Smith
+Criminal Lawyer,Assault,1,1000,John Smith
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Criminal Lawyer,Assault,1,1000,John Smith
+Criminal Lawyer,Drug,0,1000,John Smith
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Family Lawyer,ChildCustody,1,1006,Martin James
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Criminal Lawyer,Murder,0,1000,John Smith
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Criminal Lawyer,Robbery,0,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Murder,0,1000,John Smith
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Criminal Lawyer,Burglary,1,1000,John Smith
+Family Lawyer,Divorce,0,1005,Tony M Thomas
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1018,Robin Roy
+Family Lawyer,ChildCustody,1,1005,Tony M Thomas
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Criminal Lawyer,Assault,0,1000,John Smith
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Criminal Lawyer,Drug,0,1001,Jerrin Jo
+Business Lawyer,ContractDispute,1,1012,Aby George
+Tax Lawyer,IRSAudit,0,1019,Roy Jacob
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1009,Immanuvel Job
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Business Lawyer,ContractDispute,0,1013,Don Benny
+Criminal Lawyer,Burglary,1,1000,John Smith
+Criminal Lawyer,Murder,0,1002,Jo Jacob
+Family Lawyer,Adoption,0,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Criminal Lawyer,Robbery,1,1000,John Smith
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1018,Robin Roy
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Criminal Lawyer,Robbery,1,1001,Jerrin Jo
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,IRSAudit,1,1019,Roy Jacob
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Tax Lawyer,TaxEvasion,0,1017,Rony Shaji
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Family Lawyer,Adoption,1,1004,Tony K Sibichen
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Criminal Lawyer,Drug,0,1000,John Smith
+Criminal Lawyer,Assault,0,1002,Jo Jacob
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,TaxFraud,0,1018,Robin Roy
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Tax Lawyer,TaxFraud,0,1016,Rose James
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Criminal Lawyer,Robbery,0,1000,John Smith
+Criminal Lawyer,Drug,0,1000,John Smith
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Family Lawyer,Adoption,1,1006,Martin James
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Tax Lawyer,IRSAudit,0,1017,Rony Shaji
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Family Lawyer,Adoption,0,1005,Tony M Thomas
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Criminal Lawyer,Burglary,0,1001,Jerrin Jo
+Family Lawyer,Adoption,1,1006,Martin James
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Family Lawyer,Adoption,0,1006,Martin James
+Criminal Lawyer,Murder,0,1000,John Smith
+Criminal Lawyer,Assault,1,1002,Jo Jacob
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Criminal Lawyer,Robbery,1,1000,John Smith
+Tax Lawyer,IRSAudit,1,1017,Rony Shaji
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,ContractDispute,0,1012,Aby George
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Criminal Lawyer,Robbery,1,1000,John Smith
+Immigration Lawyer,Deportation,0,1010,Alen Jose
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Family Lawyer,Divorce,1,1004,Tony K Sibichen
+Criminal Lawyer,Drug,0,1002,Jo Jacob
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Family Lawyer,ChildCustody,1,1006,Martin James
+Business Lawyer,ContractDispute,1,1012,Aby George
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Tax Lawyer,IRSAudit,0,1018,Robin Roy
+Criminal Lawyer,Assault,0,1000,John Smith
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Immigration Lawyer,Asylum,0,1008,Justin Jose
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Criminal Lawyer,Drug,1,1000,John Smith
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Business Lawyer,IntellectualProperty,0,1012,Aby George
+Immigration Lawyer,Asylum,0,1010,Alen Jose
+Business Lawyer,ContractDispute,1,1014,Roji Martin
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Immigration Lawyer,Asylum,0,1009,Immanuvel Job
+Immigration Lawyer,Deportation,1,1010,Alen Jose
+Immigration Lawyer,Deportation,1,1009,Immanuvel Job
+Tax Lawyer,TaxFraud,0,1017,Rony Shaji
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Business Lawyer,ContractDispute,0,1012,Aby George
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Business Lawyer,BusinessFraud,0,1013,Don Benny
+Family Lawyer,ChildCustody,0,1004,Tony K Sibichen
+Tax Lawyer,TaxEvasion,0,1016,Rose James
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1012,Aby George
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Burglary,0,1000,John Smith
+Family Lawyer,Divorce,0,1004,Tony K Sibichen
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Business Lawyer,BusinessFraud,1,1013,Don Benny
+Tax Lawyer,IRSAudit,1,1016,Rose James
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Immigration Lawyer,Asylum,1,1010,Alen Jose
+Business Lawyer,ContractDispute,0,1012,Aby George
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Tax Lawyer,TaxFraud,1,1017,Rony Shaji
+Tax Lawyer,TaxEvasion,0,1018,Robin Roy
+Immigration Lawyer,VisaApplication,1,1009,Immanuvel Job
+Criminal Lawyer,Burglary,1,1002,Jo Jacob
+Criminal Lawyer,Murder,1,1001,Jerrin Jo
+Immigration Lawyer,VisaApplication,1,1008,Justin Jose
+Tax Lawyer,TaxFraud,1,1016,Rose James
+Immigration Lawyer,Asylum,1,1008,Justin Jose
+Business Lawyer,IntellectualProperty,0,1013,Don Benny
+Business Lawyer,BusinessFraud,1,1014,Roji Martin
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Criminal Lawyer,Murder,1,1002,Jo Jacob
+Business Lawyer,BusinessFraud,0,1014,Roji Martin
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Tax Lawyer,TaxEvasion,0,1019,Roy Jacob
+Criminal Lawyer,Robbery,0,1001,Jerrin Jo
+Business Lawyer,IntellectualProperty,1,1013,Don Benny
+Business Lawyer,ContractDispute,0,1012,Aby George
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Family Lawyer,Divorce,1,1005,Tony M Thomas
+Criminal Lawyer,Burglary,0,1000,John Smith
+Tax Lawyer,IRSAudit,0,1016,Rose James
+Immigration Lawyer,VisaApplication,0,1009,Immanuvel Job
+Business Lawyer,BusinessFraud,1,1012,Aby George
+Immigration Lawyer,VisaApplication,1,1010,Alen Jose
+Family Lawyer,Divorce,1,1006,Martin James
+Immigration Lawyer,VisaApplication,0,1010,Alen Jose
+Immigration Lawyer,VisaApplication,0,1008,Justin Jose
+Criminal Lawyer,Assault,1,1000,John Smith
+Business Lawyer,ContractDispute,0,1014,Roji Martin
+Tax Lawyer,TaxEvasion,1,1016,Rose James
+Family Lawyer,ChildCustody,1,1004,Tony K Sibichen
+Business Lawyer,BusinessFraud,0,1012,Aby George
+Immigration Lawyer,Deportation,0,1009,Immanuvel Job
+Family Lawyer,Adoption,1,1005,Tony M Thomas
+Business Lawyer,IntellectualProperty,1,1014,Roji Martin
+Criminal Lawyer,Burglary,0,1002,Jo Jacob
+Business Lawyer,IntellectualProperty,0,1014,Roji Martin

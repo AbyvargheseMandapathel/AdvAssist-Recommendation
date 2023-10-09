@@ -39,7 +39,7 @@ y_pred = stacking_model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred) * 100
 
 # Specify the case type for which you want to make a prediction
-case_type = "Assault"
+case_type = "Murder"
 
 # Create input data for prediction
 input_data = pd.DataFrame(columns=X.columns)
