@@ -70,15 +70,16 @@
 
             <div class="col-12 my-5 d-flex justify-content-center align-items-center">
                 <div class="card" style="width: 18rem;">
-                    {% if image_url %}
-                    <img src="{{ image_url }}" class="card-img-top" alt="...">
+                    {% if lawyer_image_url %}
+                    <img src="{{ lawyer_image_url }}" class="card-img-top" alt="...">
                     {% endif %}
                     <div class="card-body">
                         <h5 class="card-title">{{ lawyer_name }}</h5>
-                        <p class="card-text">{{ lawyer_specialization }}</p>
+                        <p class="card-text">{{ specialization }}</p>
                     </div>
                 </div>
             </div>
+            
 
             <div class="col-12 text-center">
                 <a href="{% url 'predict_best_lawyer' %}" class="btn btn-outline-primary">Back To Input</a>

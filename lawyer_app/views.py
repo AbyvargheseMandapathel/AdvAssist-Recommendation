@@ -24,6 +24,24 @@ def load_lawyer_data():
     lawyer_data_df = pd.read_csv('lawyer_app\shuffled_csv_file_name.csv')
     return lawyer_data_df
 
+# Define a function to get lawyer details by ID
+def get_lawyer_details(lawyer_id):
+    # Load lawyer data from 'lawyer_app\shuffled_csv_file_name.csv'
+    lawyer_df = load_lawyer_data()
+
+    # Filter lawyer data for the specified lawyer ID
+    lawyer_info = lawyer_df[lawyer_df['Lawyer ID'] == lawyer_id]
+
+    if not lawyer_info.empty:
+        lawyer_name = lawyer_info.iloc[0]['Lawyer Name']
+        specialization = lawyer_info.iloc[0]['Specialization']
+        image_url = lawyer_info['Image Url'].iloc[0]  # Corrected here
+        return lawyer_name, specialization, image_url
+
+    return None, None, None
+
+
+
 def predict_best_lawyer(request):
     if request.method == 'POST':
         case_type = request.POST.get('case_type')
@@ -39,8 +57,11 @@ def predict_best_lawyer(request):
         # Make a prediction for the specified case type
         prediction = stacking_model.predict(input_data)
 
+        # Assuming you have true labels from your testing data (replace with actual data)
+        true_labels = [0]  # Replace with your true labels
+
         # Identify the best lawyer for the case type
-        lawyer_df_case_type = pd.read_csv('lawyer_app\shuffled_csv_file.csv')  # Load your data file
+        lawyer_df_case_type = pd.read_csv('lawyer_app\shuffled_csv_file_name.csv')  # Load your data file
         lawyer_df_case_type = pd.get_dummies(lawyer_df_case_type, columns=['Case Type', 'Specialization'])
         lawyer_df_case_type = lawyer_df_case_type[
             lawyer_df_case_type[f'Case Type_{case_type}'] == 1
@@ -64,16 +85,13 @@ def predict_best_lawyer(request):
                 best_score = score
                 best_lawyer_id = lawyer_id
 
-        # Load lawyer data (including name, specialization, and image URL)
-        lawyer_data_df = load_lawyer_data()
+        # Fetch details of the best lawyer
+        best_lawyer_name, best_lawyer_specialization, best_lawyer_image_url = get_lawyer_details(best_lawyer_id)
 
-        # Get the lawyer's information based on their ID
-        best_lawyer_info = lawyer_data_df[lawyer_data_df['Lawyer ID'] == best_lawyer_id].iloc[0]
-
-        # Prepare the result message with name, specialization, and image URL
-        if best_lawyer_id is not None:
-            best_lawyer_message = f"The best lawyer for the '{case_type}' case is {best_lawyer_info['Lawyer Name']} specializing in {best_lawyer_info['Specialization']}."
-            best_lawyer_image_url = best_lawyer_info['Image Url']
+        # Display the prediction, the best lawyer, their win/loss score, and accuracy
+        if best_lawyer_name is not None:
+            best_lawyer_message = f"The best lawyer for the '{case_type}' case is {best_lawyer_name}. Specialization: {best_lawyer_specialization}"
+            best_lawyer_image_url = best_lawyer_image_url
         else:
             best_lawyer_message = f"No lawyer found for the '{case_type}' case."
             best_lawyer_image_url = ''
@@ -81,9 +99,9 @@ def predict_best_lawyer(request):
         # Render the result.html template with the result data
         return render(request, 'result.html', {
             'result_message': best_lawyer_message,
-            'image_url': best_lawyer_image_url,  # Pass the image URL to the template
-            'lawyer_name':best_lawyer_info['Lawyer Name'],
-            'lawyer_specialization':best_lawyer_info['Specialization'],
+            'lawyer_image_url': best_lawyer_image_url,
+            'lawyer_name': best_lawyer_name,
+            'specialization': best_lawyer_specialization,
         })
 
     return render(request, 'input.html')  # Adjust the template path as needed
