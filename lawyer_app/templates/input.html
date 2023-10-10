@@ -14,6 +14,7 @@
         *{
             font-family: 'Poppins', sans-serif;
         }
+        
     </style>
 
 </head>
@@ -64,8 +65,10 @@
                     </div>
                     <div class="input-group d-flex" style="flex-direction: column;">
                         <label for="price" class="my-2">Budget</label>
-                        <input type="text" id="price" name="price" class="form-control" required>
+                        <input type="number" id="price" name="price" class="form-control" required min="100" max="1000" style="width: 65%;">
                     </div>
+                    
+                                        
                     <div class="input-group d-flex" style="flex-direction: column;">
                         <label for="newLocation" class="my-2">Location</label>
                         <select style="min-width: 20em;" class="form-select" id="Location" name="Location"
