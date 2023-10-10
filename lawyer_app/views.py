@@ -3,15 +3,15 @@ import joblib
 import pandas as pd
 
 # Load the pre-trained stacking model
-stacking_model = joblib.load('lawyer_app\stacking_model.pkl')
+stacking_model = joblib.load('lawyer_app/trained.pkl')
 
 # Define a function to load the feature names used during training
 def load_feature_names():
     # Load your training data (replace 'shuffled_csv_file.csv' with your actual data file)
-    lawyer_df = pd.read_csv('lawyer_app\shuffled_csv_file.csv')
+    lawyer_df = pd.read_csv('lawyer_app/new_shuffled_csv_file.csv')
 
     # Perform one-hot encoding for categorical features
-    lawyer_df = pd.get_dummies(lawyer_df, columns=['Case Type', 'Specialization'])
+    lawyer_df = pd.get_dummies(lawyer_df, columns=['Case Type', 'Specialization', 'Location'])
 
     # Extract and return the feature column names
     feature_names = lawyer_df.drop(['Lawyer ID', 'Win/Lose'], axis=1).columns.tolist()
@@ -21,12 +21,12 @@ def load_feature_names():
 # Define a function to load lawyer data including name, specialization, and image URL
 def load_lawyer_data():
     # Load your data file that contains Lawyer ID, Lawyer Name, Specialization, and Image URL
-    lawyer_data_df = pd.read_csv('lawyer_app\shuffled_csv_file_name.csv')
+    lawyer_data_df = pd.read_csv('lawyer_app/shuffled_csv_file_name.csv')
     return lawyer_data_df
 
 # Define a function to get lawyer details by ID
 def get_lawyer_details(lawyer_id):
-    # Load lawyer data from 'lawyer_app\shuffled_csv_file_name.csv'
+    # Load lawyer data from 'lawyer_app/shuffled_csv_file_name.csv'
     lawyer_df = load_lawyer_data()
 
     # Filter lawyer data for the specified lawyer ID
@@ -40,11 +40,12 @@ def get_lawyer_details(lawyer_id):
 
     return None, None, None
 
-
-
+# Define the main view for predicting the best lawyer
 def predict_best_lawyer(request):
     if request.method == 'POST':
         case_type = request.POST.get('case_type')
+        new_location = request.POST.get('Location')
+        price = int(request.POST.get('price'))
 
         # Load the feature names used during training
         feature_names = load_feature_names()
@@ -53,16 +54,18 @@ def predict_best_lawyer(request):
         input_data = pd.DataFrame(columns=feature_names)
         input_data.loc[0] = 0
         input_data[f'Case Type_{case_type}'] = 1
+        input_data[f'Location_{new_location}'] = 1  # Use 'new_location' here
+        input_data['Price'] = price
 
-        # Make a prediction for the specified case type
+        # Make a prediction for the specified input data
         prediction = stacking_model.predict(input_data)
 
         # Assuming you have true labels from your testing data (replace with actual data)
         true_labels = [0]  # Replace with your true labels
 
         # Identify the best lawyer for the case type
-        lawyer_df_case_type = pd.read_csv('lawyer_app\shuffled_csv_file_name.csv')  # Load your data file
-        lawyer_df_case_type = pd.get_dummies(lawyer_df_case_type, columns=['Case Type', 'Specialization'])
+        lawyer_df_case_type = pd.read_csv('lawyer_app/shuffled_csv_file_name.csv')  # Load your data file
+        lawyer_df_case_type = pd.get_dummies(lawyer_df_case_type, columns=['Case Type', 'Specialization', 'Location'])
         lawyer_df_case_type = lawyer_df_case_type[
             lawyer_df_case_type[f'Case Type_{case_type}'] == 1
         ]

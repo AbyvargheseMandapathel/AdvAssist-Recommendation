@@ -1,34 +1,10 @@
-<!-- {% load static %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Lawyer Recommendation</title>
-    <link rel="stylesheet" href="{% static 'css/style.css' %}">
-    
-</head>
-<body>
-    <form method="post">
-        {% csrf_token %}
-        <label for="case_type">Case Type:</label>
-        <select id="case_type" name="case_type" required>
-            <option value="Murder">Murder</option>
-            <option value="Adoption">Adoption</option>
-           Add more options as needed
-        </select>
-        <input type="submit" value="Submit">
-    </form>
-</body>
-</html> -->
-
-
 <!doctype html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Lawyer Recommendation</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
@@ -64,26 +40,43 @@
         </div>
     </nav>
 
-
-
     <div class="container py-5">
         <div class="row">
             <div style="min-height: 75vh;" class="col-12 d-flex justify-content-center align-items-center">
                 <form method="post">
                     {% csrf_token %}
-                    <h1 class="text-center my-4">Heading</h1>
+                    <h1 class="text-center my-4">Lawyer Recommendation</h1>
                     <div class="input-group d-flex" style="flex-direction: column;">
                         <label for="case_type" class="my-2">Case Type</label>
                         <select style="min-width: 20em;" class="form-select" id="case_type" name="case_type"
-                            aria-label="Example select with button addon" required>
+                            aria-label="Select Case Type" required>
                             <option value="" selected disabled>Choose...</option>
                             <option value="Murder">Murder</option>
                             <option value="Adoption">Adoption</option>
                             <option value="Robbery">Robbery</option>
-                            <option value="VisaApplication">VisaApplication</option>
+                            <option value="Drug">Drug</option>
+                            <option value="Burglary">Burglary</option>
+                            <option value="ChildCustody">Child Custody</option>
+                            <option value="Divorce">Divorce</option>
+                            <option value="Asylum">Asylum</option>
+                            <option value="Deportation">Deportation</option>
                         </select>
                     </div>
-                    
+                    <div class="input-group d-flex" style="flex-direction: column;">
+                        <label for="price" class="my-2">Budget</label>
+                        <input type="text" id="price" name="price" class="form-control" required>
+                    </div>
+                    <div class="input-group d-flex" style="flex-direction: column;">
+                        <label for="newLocation" class="my-2">Location</label>
+                        <select style="min-width: 20em;" class="form-select" id="Location" name="Location"
+                            aria-label="Select Location" required>
+                            <option value="" selected disabled>Choose...</option>
+                            <option value="Vilage Court">Village Court</option>
+                            <option value="High Court">High Court</option>
+                            <option value="District Court">District Court</option>
+                            <option value="Supreme Court">Supreme Court</option>
+                        </select>
+                    </div>
                     <button style="min-width: 7em;" class="btn btn-primary mt-4" type="submit">Submit</button>
                 </form>
             </div>
