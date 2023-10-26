@@ -9,7 +9,11 @@ import seaborn as sns
 import joblib
 
 # Load the dataset (replace 'shuffled_csv_file.csv' with your actual data file)
-lawyer_df = pd.read_csv('dataset1.csv')
+lawyer_df = pd.read_csv('new_shuffled_csv_file.csv')
+
+# Check for missing values and impute them with the mean
+lawyer_df = lawyer_df.fillna(lawyer_df.mean())
+
 
 # Perform one-hot encoding for categorical features
 lawyer_df = pd.get_dummies(lawyer_df, columns=['Case Type', 'Specialization', 'Location'])

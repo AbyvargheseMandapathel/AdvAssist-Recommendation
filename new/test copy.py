@@ -3,13 +3,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import StackingClassifier
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix
-import matplotlib.pyplot as plt
-import seaborn as sns
+from sklearn.metrics import accuracy_score
 import joblib
 
-# Load the dataset (replace 'shuffled_csv_file.csv' with your actual data file)
-lawyer_df = pd.read_csv('dataset1.csv')
+# Load the dataset 
+lawyer_df = pd.read_csv('new_shuffled_csv_file.csv')
 
 # Perform one-hot encoding for categorical features
 lawyer_df = pd.get_dummies(lawyer_df, columns=['Case Type', 'Specialization', 'Location'])
@@ -37,40 +35,11 @@ stacking_model.fit(X_train, y_train)
 # Make predictions on the testing data
 y_pred = stacking_model.predict(X_test)
 
-# Calculate confusion matrix
-conf_matrix = confusion_matrix(y_test, y_pred)
-
-# Display the confusion matrix
-plt.figure(figsize=(8, 6))
-sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues', xticklabels=["Lose", "Win"], yticklabels=["Lose", "Win"])
-plt.xlabel('Predicted')
-plt.ylabel('Actual')
-plt.title('Confusion Matrix')
-
-# Calculate accuracy on the testing data
-accuracy = accuracy_score(y_test, y_pred) * 100
-
-# Display the accuracy as a graph
-plt.figure(figsize=(8, 6))
-plt.plot([accuracy] * len(y_test), label=f'Accuracy: {accuracy:.2f}%')
-plt.xlabel('Test Samples')
-plt.ylabel('Accuracy')
-plt.title('Accuracy on Testing Data')
-plt.legend()
-plt.grid(True)
-
-# Display the accuracy as a histogram
-plt.figure(figsize=(8, 6))
-sns.histplot([accuracy], kde=True)  # Wrap accuracy in a list or array
-plt.xlabel('Accuracy')
-plt.ylabel('Frequency')
-plt.title('Accuracy Histogram')
-plt.grid(True)
 
 # Specify the case type, price, and location for which you want to make a prediction
-case_type = input("Enter the case type: ")
-price = int(input("Enter the price: "))
-location = input("Enter the location: ")
+case_type = "Murder"
+price = 231  
+location = "Vilage Court"  
 
 # Create input data for prediction
 input_data = pd.DataFrame(columns=X.columns)
@@ -91,8 +60,6 @@ best_score = -1
 for lawyer_id in lawyer_ids:
     lawyer_cases = lawyer_df_case_type[lawyer_df_case_type['Lawyer ID'] == lawyer_id]
     total_cases = len(lawyer_cases)
-
-
     if total_cases == 0:
         continue
 
@@ -103,30 +70,20 @@ for lawyer_id in lawyer_ids:
     if score > best_score:
         best_score = score
         best_lawyer_id = lawyer_id
+        
+# Calculate accuracy on the testing data
+accuracy = accuracy_score(y_test, y_pred) * 100
 
-# Display the prediction, the best lawyer, their win/loss score, and accuracy
+# Display the prediction, the best lawyer,  and accuracy
 if best_lawyer_id is not None:
     print(f"The best lawyer for the '{case_type}' case is Lawyer {best_lawyer_id}")
 else:
     print(f"No lawyer found for the '{case_type}' case.")
 
-# After making predictions (y_pred) and having true labels (y_test), calculate the metrics
-accuracy = accuracy_score(y_test, y_pred) * 100
-f1 = f1_score(y_test, y_pred) * 100
-precision = precision_score(y_test, y_pred) * 100
-recall = recall_score(y_test, y_pred) * 100
+print(f"Accuracy of the prediction on the testing data: {accuracy:.2f}%")
 
-# Print the results
-print(f"Accuracy: {accuracy:.2f}%")
-print(f"F1 Score: {f1:.2f}%")
-print(f"Precision: {precision:.2f}%")
-print(f"Recall: {recall:.2f}%")
-
-# Save the stacking model as a .pkl file
-model_filename = "trainednew.pkl"
+# # Save the stacking model as a .pkl file
+model_filename = "trained.pkl"
 joblib.dump(stacking_model, model_filename)
 
 print(f"Stacking model saved to {model_filename}")
-
-# Show the plots
-plt.show()

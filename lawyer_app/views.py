@@ -35,8 +35,8 @@ def get_lawyer_details(lawyer_id):
     if not lawyer_info.empty:
         lawyer_name = lawyer_info.iloc[0]['Lawyer Name']
         specialization = lawyer_info.iloc[0]['Specialization']
-        image_url = lawyer_info['Image Url'].iloc[0]  # Corrected here
-        return lawyer_name, specialization, image_url
+        # image_url = lawyer_info['Image Url'].iloc[0]  # Corrected here
+        return lawyer_name, specialization
 
     return None, None, None
 
@@ -89,20 +89,20 @@ def predict_best_lawyer(request):
                 best_lawyer_id = lawyer_id
 
         # Fetch details of the best lawyer
-        best_lawyer_name, best_lawyer_specialization, best_lawyer_image_url = get_lawyer_details(best_lawyer_id)
+        best_lawyer_name, best_lawyer_specialization= get_lawyer_details(best_lawyer_id)
 
         # Display the prediction, the best lawyer, their win/loss score, and accuracy
         if best_lawyer_name is not None:
             best_lawyer_message = f"The best lawyer for the '{case_type}' case is {best_lawyer_name}. Specialization: {best_lawyer_specialization}"
-            best_lawyer_image_url = best_lawyer_image_url
+            
         else:
             best_lawyer_message = f"No lawyer found for the '{case_type}' case."
-            best_lawyer_image_url = ''
+            
 
         # Render the result.html template with the result data
-        return render(request, 'result.html', {
+        return render(request, 'input.html', {
             'result_message': best_lawyer_message,
-            'lawyer_image_url': best_lawyer_image_url,
+            
             'lawyer_name': best_lawyer_name,
             'specialization': best_lawyer_specialization,
         })
